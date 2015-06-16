@@ -16,6 +16,7 @@ fprintf('\n Finding lambda_bar .... ');
 ldiff  = 0;
 lit   = 1;
 123213
+23132131
 while lit < max_it_lbar
     tic
     lit = lit+1; 
